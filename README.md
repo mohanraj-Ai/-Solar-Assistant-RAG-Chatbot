@@ -163,5 +163,5 @@ Example:
 
 AI Engineer | Generative AI | AI Agents | RAG | LangChain | Python
 
-- LinkedIn: https://www.linkedin.com/in/your-linkedin/
+- LinkedIn:https://www.linkedin.com/in/mohanraj-p-2bb994217/
 - GitHub: https://github.com/mohanraj-Ai
